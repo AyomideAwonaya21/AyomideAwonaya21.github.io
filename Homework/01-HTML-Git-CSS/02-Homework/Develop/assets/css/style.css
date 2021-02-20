@@ -198,3 +198,9 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* tablets smartphones */
+@media screen and (max-width: 942px){
+    header {
+        background: #0072bb;
+    }
+}
