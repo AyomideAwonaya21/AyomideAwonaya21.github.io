@@ -210,3 +210,9 @@ p {
         background-color: #0072bb;
     }
 }
+/* small smartphones*/
+@media screen and (max-width:520px){
+    .sample-img {
+        background-color: #0072bb;
+    }
+}
