@@ -204,3 +204,9 @@ p {
         background: #0072bb;
     }
 }
+/* large smartphones*/
+@media screen and (max-width:740px){
+    nav {
+        background-color: #0072bb;
+    }
+}
